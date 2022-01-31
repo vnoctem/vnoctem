@@ -1,6 +1,6 @@
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--START_SECTION:productive-box-->
+<!--START_SECTION:productive-box-in-readme-->
 I'm a night 🦉
 
 ```text
@@ -9,4 +9,4 @@ I'm a night 🦉
 🌃 Evening   107 commits  ██████▍░░░░░░░░░░░░░░  30.6%
 🌙 Night      98 commits  █████▉░░░░░░░░░░░░░░░  28.0%
 ```
-<!--END_SECTION:productive-box-->
+<!--END_SECTION:productive-box-in-readme-->
