@@ -6,7 +6,7 @@ I'm a night 🦉
 
 🌞 Morning    17 commits  ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 🌆 Daytime   144 commits  ██████▉░░░░░░░░░░░░░░  33.0%
-🌃 Evening   137 commits  ██████▌░░░░░░░░░░░░░░  31.4%
-🌙 Night     138 commits  ██████▋░░░░░░░░░░░░░░  31.7%
+🌃 Evening   138 commits  ██████▋░░░░░░░░░░░░░░  31.6%
+🌙 Night     138 commits  ██████▋░░░░░░░░░░░░░░  31.6%
 ```
 <!--END_SECTION:productive-box-in-readme-->
